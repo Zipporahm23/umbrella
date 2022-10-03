@@ -94,3 +94,4 @@ if any_precipitation == true
 else
   puts "You probably won't need an umbrella."
 end
+subbed_string = full_url.gsub("UIC", user_location)
